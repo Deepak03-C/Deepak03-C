@@ -36,3 +36,9 @@ I'm a passionate BE-Computer Science graduate looking for opportunities in softw
             - Integrated geolocation for automatic location detection.<br/>
             - Designed an intuitive UI to display temperature, humidity, and weather conditions.<br/>
             - Tech Stack: HTML, CSS, JavaScript, API Integration
+
+  ### I,m code in
+  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+
+  ### IDE and Tools I Use
+  <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/> <img width="50" height="50" src="https://img.icons8.com/office/50/java-eclipse.png" alt="java-eclipse"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> 
