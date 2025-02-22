@@ -14,6 +14,7 @@ I'm a passionate BE-Computer Science graduate looking for opportunities in softw
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Tech
 - 📫 How to reach me: ...
+  <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepak-kumar-c-sns?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new tech stacks and keeping up with industry trends.
 
